@@ -1,0 +1,32 @@
+/*
+Theme Name: Avada Child | Shared by VestaThemes.com
+Description: Child theme for Avada theme
+Author: ThemeFusion
+Author URI: https://theme-fusion.com
+Template: Avada
+Version: 1.0.0
+Text Domain:  Avada
+*/
+
+.fusion-secondary-main-menu {
+    border-bottom: 0px!important;
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+    -webkit-backface-visibility: hidden;
+    background: #802754!important;
+    background-color: #802754!important;
+    border: none;
+    color: white;
+    margin-top: 1px;
+}
+.fusion-main-menu > ul > li > a, .side-nav li a {
+    font-size: 1.2em!important;
+    color: white!important;
+	font-family: thin!important;
+	opacity: 0.8;
+    letter-spacing: -0.3px;
+}
+
+.fusion-main-menu > ul > li {
+    padding-right: 70px!important;
+}

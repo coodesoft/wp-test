@@ -1,0 +1,10 @@
+﻿<wpml-config>
+  <admin-texts>
+    <key name="vartable_in_stock_text" />
+    <key name="vartable_out_stock_text" />
+    <key name="vartable_low_stock_text" />
+    <key name="vartable_low_stock_thresh" />
+    <key name="vartable_default_qty" />
+    <key name="vartable_customhead" />
+  </admin-texts>
+</wpml-config>
